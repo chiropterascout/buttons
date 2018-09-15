@@ -1,3 +1,5 @@
+# one button = one game
+
 ## >> [website](blog)
 
 hi. I'm scout. I'm very dedicated to twitter jokes and I will make you a shitty twine game if you give me a button.
