@@ -6,6 +6,8 @@ hi. I'm scout. I'm very dedicated to twitter jokes and I will make you a shitty 
 * for laura: [bus adventure FULL VERSION](bus-adventure.html)
 * for erin: [waiting room](waiting-room.html)
 * for eleanor: [latte](latte.html)
+* for sav: [binary tree explorer](binary-tree-explorer.html) *NEW!*
+* for katelyn: [parcel collection](parcel-collection.html) *NEW!*
 
 @ me on [twitter](https://twitter.com/calculush) if you want a shitty twine game too.
 
