@@ -11,7 +11,7 @@ hi. I'm scout. I'm very dedicated to twitter jokes and I will make you a shitty 
 
 @ me on [twitter](https://twitter.com/calculush) if you want a shitty twine game too.
 
-\* *a shirt button not a pin button I only accept shirt buttons as currency\*\**
+ \* *a shirt button not a pin button I only accept shirt buttons as currency\*\**
 
 \*\* *but jason also owes me a subway voucher with three stamps on it*
 
