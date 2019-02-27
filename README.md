@@ -13,7 +13,7 @@ hi. I'm scout. I'm too dedicated to twitter jokes and I will make you a shitty t
 
 ---
 
-* [ALPHAS](http://philome.la/calculush) are on [philome.la](http://philome.la)
+* [ALPHAS](http://philome.la/calculush) OR BETAS OR WHATEVER are on [philome.la](http://philome.la)
 
 ---
 
