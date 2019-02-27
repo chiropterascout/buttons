@@ -1,6 +1,6 @@
 # one button = one game
 
-hi. I'm scout. I'm very dedicated to twitter jokes and I will make you a shitty twine game if you give me a button\*.
+hi. I'm scout. I'm too dedicated to twitter jokes and I will make you a shitty twine game if you give me a button\*.
 
 * for jason: [the worst escape room](worst-escape-room.html)
 * for laura: [bus adventure FULL VERSION](bus-adventure.html) _PAID_
@@ -23,4 +23,4 @@ hi. I'm scout. I'm very dedicated to twitter jokes and I will make you a shitty 
 
 \*\*\* _and I owe laura like a dozen twines cause she gave me so many buttons_
 
-© 2019 Scout Quinn.
+COPYRIGHT TWENTY NINETEEN SCOUT QUINN
