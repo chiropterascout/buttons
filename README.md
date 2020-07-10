@@ -23,4 +23,4 @@ hi. I'm scout. I'm too dedicated to twitter jokes and I will make you a shitty t
 
 \*\*\* _and I owe laura like a dozen twines cause she gave me so many buttons_
 
-COPYRIGHT TWENTY NINETEEN SCOUT EMMANUELLE QUINN
+COPYRIGHT TWENTY TWENTY SCOUT EMMANUELLE QUINN
